@@ -1,0 +1,7 @@
+xst -intstyle ise -ifn "D:/WINDOWS/system32/ALU/alu.xst" -ofn "D:/WINDOWS/system32/ALU/alu.syr" 
+xst -intstyle ise -ifn "D:/WINDOWS/system32/ALU/alu.xst" -ofn "D:/WINDOWS/system32/ALU/alu.syr" 
+xst -intstyle ise -ifn "D:/WINDOWS/system32/ALU/alu.xst" -ofn "D:/WINDOWS/system32/ALU/alu.syr" 
+xst -intstyle ise -ifn "D:/WINDOWS/system32/ALU/alu.xst" -ofn "D:/WINDOWS/system32/ALU/alu.syr" 
+xst -intstyle ise -ifn "D:/WINDOWS/system32/ALU/alu.xst" -ofn "D:/WINDOWS/system32/ALU/alu.syr" 
+xst -intstyle ise -ifn "D:/WINDOWS/system32/ALU/alu.xst" -ofn "D:/WINDOWS/system32/ALU/alu.syr" 
+xst -intstyle ise -ifn "D:/Xilinx_ISE_14.7/ISE_project/ALU/alu.xst" -ofn "D:/Xilinx_ISE_14.7/ISE_project/ALU/alu.syr" 

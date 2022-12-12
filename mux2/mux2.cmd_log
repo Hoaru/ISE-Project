@@ -1,0 +1,10 @@
+xst -intstyle ise -ifn "D:/Xilinx_ISE_14.7/ISE_project/mux2/mux2.xst" -ofn "D:/Xilinx_ISE_14.7/ISE_project/mux2/mux2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc mux2.ucf -p xc6slx16-csg324-3 mux2.ngc mux2.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o mux2_map.ncd mux2.ngd mux2.pcf 
+par -w -intstyle ise -ol high -mt off mux2_map.ncd mux2.ncd mux2.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml mux2.twx mux2.ncd -o mux2.twr mux2.pcf -ucf mux2.ucf 
+bitgen -intstyle ise -f mux2.ut mux2.ncd 
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o mux2_map.ncd mux2.ngd mux2.pcf 
+par -w -intstyle ise -ol high -mt off mux2_map.ncd mux2.ncd mux2.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml mux2.twx mux2.ncd -o mux2.twr mux2.pcf -ucf mux2.ucf 
+bitgen -intstyle ise -f mux2.ut mux2.ncd 

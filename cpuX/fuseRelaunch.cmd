@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/Xilinx_ISE_14.7/ISE_project/cpuX/cpuX_t_isim_beh.exe" -prj "D:/Xilinx_ISE_14.7/ISE_project/cpuX/cpuX_t_beh.prj" "work.cpuX_t" "work.glbl" 

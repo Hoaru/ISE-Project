@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/Xilinx_ISE_14.7/ISE_project/mux2/mux2_t_isim_beh.exe" -prj "D:/Xilinx_ISE_14.7/ISE_project/mux2/mux2_t_beh.prj" "work.mux2_t" "work.glbl" 

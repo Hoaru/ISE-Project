@@ -1,0 +1,39 @@
+ISim log file
+Running: D:\Xilinx_ISE_14.7\ISE_project\main\main_t_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/Xilinx_ISE_14.7/ISE_project/main/main_t_isim_beh.wdb 
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 1.00us
+# step
+Stopped at time : 2010 ns : File "D:/Xilinx_ISE_14.7/ISE_project/main/main_t.v" Line 186
+# run 0.50us
+# run 0.50us
+# run 0.50us
+# run 0.50us
+# restart
+# step
+Simulator is doing circuit initialization process.
+Stopped at time : 0 fs : File "D:/Xilinx_ISE_14.7/ISE_project/main/rf.v" Line 36
+# step
+Stopped at time : 0 fs : File "D:/Xilinx_ISE_14.7/ISE_project/main/alu.v" Line 15
+# run 0.50us
+Finished circuit initialization process.
+# restart
+# run 0.50us
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# restart
+# run 0.25us
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 0.25us

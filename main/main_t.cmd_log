@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/Xilinx_ISE_14.7/ISE_project/main/main_t.xst" -ofn "D:/Xilinx_ISE_14.7/ISE_project/main/main_t.syr" 
+xst -intstyle ise -ifn "D:/Xilinx_ISE_14.7/ISE_project/main/main_t.xst" -ofn "D:/Xilinx_ISE_14.7/ISE_project/main/main_t.syr" 

@@ -1,0 +1,5 @@
+verilog work "rf.v"
+verilog work "mux2.v"
+verilog work "alu.v"
+verilog work "main.v"
+verilog work "main_t.v"

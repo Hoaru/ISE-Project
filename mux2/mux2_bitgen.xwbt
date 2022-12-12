@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\Xilinx_ISE_14.7\ISE_project\mux2\mux2.ncd
+OUTFILE=D:\Xilinx_ISE_14.7\ISE_project\mux2\mux2.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=D:\Xilinx_ISE_14.7\ISE_project\mux2
+LICENSE=ISE
+USER_INFO=135256_15690819_173552794_661

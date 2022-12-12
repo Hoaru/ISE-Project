@@ -1,0 +1,43 @@
+Running: D:\Xilinx_ISE_14.7\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o D:/Xilinx_ISE_14.7/ISE_project/cpuX/cpuX_t_isim_beh.exe -prj D:/Xilinx_ISE_14.7/ISE_project/cpuX/cpuX_t_beh.prj work.cpuX_t work.glbl 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/Xilinx_ISE_14.7/ISE_project/cpuX/RF.v" into library work
+Analyzing Verilog file "D:/Xilinx_ISE_14.7/ISE_project/cpuX/PC.v" into library work
+Analyzing Verilog file "D:/Xilinx_ISE_14.7/ISE_project/cpuX/NPC.v" into library work
+Analyzing Verilog file "D:/Xilinx_ISE_14.7/ISE_project/cpuX/MUX232.v" into library work
+Analyzing Verilog file "D:/Xilinx_ISE_14.7/ISE_project/cpuX/MUX15.v" into library work
+Analyzing Verilog file "D:/Xilinx_ISE_14.7/ISE_project/cpuX/MUX132.v" into library work
+Analyzing Verilog file "D:/Xilinx_ISE_14.7/ISE_project/cpuX/IM.v" into library work
+Analyzing Verilog file "D:/Xilinx_ISE_14.7/ISE_project/cpuX/EP.v" into library work
+Analyzing Verilog file "D:/Xilinx_ISE_14.7/ISE_project/cpuX/DM.v" into library work
+Analyzing Verilog file "D:/Xilinx_ISE_14.7/ISE_project/cpuX/CTRL.v" into library work
+Analyzing Verilog file "D:/Xilinx_ISE_14.7/ISE_project/cpuX/ALU.v" into library work
+Analyzing Verilog file "D:/Xilinx_ISE_14.7/ISE_project/cpuX/Main.v" into library work
+Analyzing Verilog file "D:/Xilinx_ISE_14.7/ISE_project/cpuX/cpuX_t.v" into library work
+Analyzing Verilog file "D:/Xilinx_ISE_14.7/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 160432 KB
+Fuse CPU Usage: 546 ms
+Compiling module ALU
+Compiling module CTRL
+Compiling module DM
+Compiling module EP
+Compiling module IM
+Compiling module MUX132
+Compiling module MUX15
+Compiling module MUX232
+Compiling module NPC
+Compiling module PC
+Compiling module RF
+Compiling module main
+Compiling module cpuX_t
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 14 Verilog Units
+Built simulation executable D:/Xilinx_ISE_14.7/ISE_project/cpuX/cpuX_t_isim_beh.exe
+Fuse Memory Usage: 170004 KB
+Fuse CPU Usage: 780 ms
